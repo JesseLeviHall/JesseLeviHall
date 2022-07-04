@@ -1,6 +1,6 @@
 # Hi, Jesse here
 
-### Connect with me:
+### Portfolio / linkedin:
 
 [![website](./img/JLH.PNG)](https://https://jesselevihall.com)
 &nbsp;&nbsp;
