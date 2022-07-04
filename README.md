@@ -9,7 +9,6 @@
 <br />
 -Committed To Cultivating Creative Solutions
 <br />
-<br />
 
 ### Learning Objectives:
 
