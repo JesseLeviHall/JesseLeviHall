@@ -9,7 +9,8 @@
 <br />
 -Committed To Cultivating Creative Solutions
 <br />
-Learning Objectives: Typescript, Tailwind, MySQL, GraphQL, Python, Ruby, Deno, Web3
+<br />
+-Learning Objectives: Typescript, Tailwind, MySQL, GraphQL, Python, Ruby, Deno, Web3
 
 ### Portfolio / linkedin:
 
