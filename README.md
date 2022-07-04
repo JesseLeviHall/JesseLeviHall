@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-(./img/JLH.PNG)](https://https://jesselevihall.com)
+[![website](./img/JLH.PNG)](https://https://jesselevihall.com)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -26,3 +26,5 @@
 <br />
 
 ---
+
+[website]: https://jesselevihall.com
