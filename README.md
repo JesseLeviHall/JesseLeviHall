@@ -3,7 +3,7 @@
 
 # Hi, Jesse here
 
-Web Developer, Freelance Videographer, Natrual Resource Conservationist
+-Web Developer, Freelance Videographer, Natrual Resource Conservationist
 <br />
 -Originally from New Mexico
 <br />
