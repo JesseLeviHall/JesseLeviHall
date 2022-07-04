@@ -1,9 +1,10 @@
-# Hi, Jesse here -
+# Hi, Jesse here
 
 ### Connect with me:
 
 [![website](./img/JLH.PNG)](https://https://jesselevihall.com) Portfolio
 &nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jessehall/)
 
 ### Languages and Tools:
 
@@ -23,3 +24,4 @@
 ---
 
 [website]: https://jesselevihall.com
+[linkedin]: https://linkedin.com/in/jessehall/
