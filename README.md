@@ -3,8 +3,8 @@
 
 # Hi, Jesse here
 
-Ethos: equanimity and persistence <br />
-Motto: "do your best and have fun"
+   <br />
+Motto: "Do your best and have fun"
 
 ### Portfolio / linkedin:
 
