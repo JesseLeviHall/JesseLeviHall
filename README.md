@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[![website](./img/JLH.PNG)](https://https://jesselevihall.com) Portfolio
+[![website](./img/JLH.PNG)](https://https://jesselevihall.com)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jessehall/)
 
@@ -17,9 +17,6 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-
-<br />
-<br />
 
 ---
 
