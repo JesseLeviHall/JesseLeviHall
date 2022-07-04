@@ -1,4 +1,3 @@
-[website]: https://jesselevihall.com
 [linkedin]: https://linkedin.com/in/jessehall/
 
 # Hi, Jesse here
@@ -14,10 +13,8 @@
 
 -Typescript, Tailwind, MySQL, GraphQL, Python, Ruby, Deno, Web3
 
-### Portfolio / linkedin:
+### linkedin:
 
-[![website](./img/JLH.PNG)](https://https://jesselevihall.com)
-&nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jessehall/)
 
 ### Languages and Tools:
