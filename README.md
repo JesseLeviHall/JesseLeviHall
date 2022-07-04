@@ -3,8 +3,9 @@
 
 # Hi, Jesse here
 
-   <br />
-Motto: "Do your best and have fun"
+Web Developer, Freelance Videographer, Natrual Resource Conservationist originally from New Mexico
+<br />
+Committed Cultivating Creative Solutions
 
 ### Portfolio / linkedin:
 
