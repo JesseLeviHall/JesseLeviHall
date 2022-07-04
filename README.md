@@ -1,4 +1,4 @@
-[website]: https://jesselevihall.com
+[website]: https://jesselevihall.com/
 [linkedin]: https://linkedin.com/in/jessehall/
 
 # Hi, Jesse here
