@@ -3,9 +3,9 @@
 
 # Hi, Jesse here
 
-Web Developer, Freelance Videographer, Natrual Resource Conservationist originally from New Mexico
+Web Developer, Freelance Videographer, Natrual Resource Conservationist <br /> originally from New Mexico
 <br />
-Committed Cultivating Creative Solutions
+Committed To Cultivating Creative Solutions
 
 ### Portfolio / linkedin:
 
