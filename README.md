@@ -11,6 +11,10 @@
 
 ### Learning Objectives:
 
+Short Term: <br />
+-ESLint, Chrome Debugger, Webhooks
+
+Long Term: <br/>
 -Typescript, Tailwind, MySQL, GraphQL, Python, Ruby, Deno, Web3
 
 ### linkedin:
