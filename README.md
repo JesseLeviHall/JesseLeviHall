@@ -12,10 +12,10 @@
 ### Learning Objectives:
 
 Short Term: <br />
--ESLint, Chrome Debugger, Webhooks, React Query
+-GraphQL, Chrome Debugger, React Query
 
 Long Term: <br/>
--Typescript, Tailwind, MySQL, GraphQL, Python, Ruby, Deno, Web3
+-Typescript, MySQL, Python, Web3
 
 ### linkedin:
 
