@@ -12,10 +12,10 @@
 ### Learning Objectives:
 
 Short Term: <br />
--GraphQL, Chrome Debugger, React Query
+-Typescript
 
 Long Term: <br/>
--Typescript, MySQL, Python, Web3
+ -Python and Machine Learning
 
 ### linkedin:
 
