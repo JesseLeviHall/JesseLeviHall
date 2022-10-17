@@ -9,14 +9,6 @@
 -Committed To Cultivating Creative Solutions
 <br />
 
-### Learning Objectives:
-
-Short Term: <br />
--Typescript
-
-Long Term: <br/>
- -Python and Machine Learning
-
 ### linkedin:
 
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jessehall/)
